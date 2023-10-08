@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Dr. Lecheng Ruan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
