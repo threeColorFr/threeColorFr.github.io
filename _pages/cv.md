@@ -20,21 +20,28 @@ Awards and Honors
 
 * Keynote Speaker, HIT Commencement for Honor Degree. (2016)
 
-* Li-Chang Scholarship, Present Award of HIT. (2015)
+* Li-Chang Award, Present Award of HIT. (2015)
   * Highest honor for HIT students, awarded to 5 undergraduates every two years.
   * Name of recipients permanently recorded in the university history.
+ 
+* Summa Cum Laude, HIT. (2015)
 
-* CSST Scholar. (2014)
+* CSST (Cross-disciplinary Scholars in Science and Technology) Scholar. (2014)
   * Finacial support of undergratuate research internship in UCLA. 100 undergraduates awarded annually in China.
   * The first CSST scholar in HIT history.
+ 
+* Merit Student, Heilongjiang Province, China. (2014)
 
-* Student Representative, G20 Saint Petersburg. (2013)
+* Pioneering Merit Student, HIT. (2014)
 
-* 
+* Student Representative of China, G20 Saint Petersburg. (2013)
 
 ***Awards***
-
-
+* Graduate Student Fellowship, UCLA. (2018, 2019)
+  *  Each includes full coverage of tuition, a 12-month stipend and comprehensive health insurance for one academic year. 
+* Incoming Graduate Student Fellowship, UCLA. (2015 - 2017)
+  * Full coverage of tuition (including non-resident tuition), a 24-month stipend and comprehensive health insurance for the first two years of graduate study.
+  * Rank 1 globally in the fellowship interview of that year.
 
 Publications
 ======
@@ -64,18 +71,3 @@ Publications
 * ***Representation and Learning***
   * Shi Y, Li S, Niu X, Xu Q, Liu J, Xu Y, Gu S, He B, Li X, Zhao X, Zhao Z, Lyu Y, Li Z, Liu S, Qiu L, Ji J, Ruan L, Ma Y, Han W, Zhu Y. PersLEARN: research training through the lens of perspective cultivation. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2023. 
  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
