@@ -11,8 +11,8 @@ redirect_from:
 Education
 ======
 
-* Ph.D., Control and Applied Math, Department of Mechanical and Aerospace Engineering, University of California, Los Angeles. 2015 - 2020.
-* B.E. with Honor, Robotics and Mechatronics, Harbin Institute of Technology. 2011 - 2015
+* Ph.D., System and Control/Applied Math, University of California, Los Angeles. 2020.
+* B.E. with Honor, Robotics/Mechatronics, Harbin Institute of Technology. 2015
 
 
 Work experience
