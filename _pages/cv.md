@@ -48,7 +48,7 @@ Publications
 * Unmanned Aerial Vehicle
   * Ruan L, Pi CH, Su Y, Yu P, Cheng S, Tsao TC. Control and experiments of a novel tiltable-rotor aerial platform comprising quadcopters and passive hinges. ***Mechatronics***. 2023.
   * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Fault-tolerant control of an over-actuated UAV platform built on quadcopters and passive hinges. ***IEEE/ASME Transactions on Mechatronics***. 2023.
-  * Yu P, Su Y, Ruan L, Tsao TC. Compensating Aerodynamics of Over-actuated Multi-rotor Aerial Platform with Data-driven Iterative Learning Control. ***IEEE Robotics and Automation Letters***. 2023.
+  * Yu P, Su Y, Ruan L, Tsao TC. Compensating aerodynamics of over-actuated multi-rotor aerial platform with data-driven iterative learning control. ***IEEE Robotics and Automation Letters***. 2023.
   * Su Y, Ruan L, Yu P, Pi CH, Gerber MJ, Tsao TC. A fast and efficient attitude control algorithm of a tilt-rotor aerial platform using inputs redundancies. ***IEEE Robotics and Automation Letters***. 2021.
   * Su Y, Yu P, Gerber MJ, Ruan L, Tsao TC. Nullspace-based control allocation of overactuated uav platforms. ***IEEE Robotics and Automation Letters***. 2021.
   * Yu P, Su Y, Gerber MJ, Ruan L, Tsao TC. An over-actuated multi-rotor aerial vehicle with unconstrained attitude angles and high thrust efficiencies. ***IEEE Robotics and Automation Letters***. 2021.
