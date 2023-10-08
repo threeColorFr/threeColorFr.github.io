@@ -19,50 +19,50 @@ Awards and Honors
 ======
 ***Honors***
 
-* Keynote Speaker, HIT Commencement for Honor Degree. (2016)
+* ***Keynote Speaker***, HIT Commencement for Honor Degree. (2016)
 
-* Li-Chang Award, Present Award of HIT. (2015)
+* ***Li-Chang Award***, Present Award of HIT. (2015)
   * Highest honor for HIT students, awarded to 5 undergraduates every two years.
   * Name of recipients permanently recorded in the university history.
  
-* Summa Cum Laude, HIT. (2015)
+* ***Summa Cum Laude***, HIT. (2015)
 
-* CSST (Cross-disciplinary Scholars in Science and Technology) Scholar. (2014)
+* ***CSST Scholar***. (2014)
   * Finacial support of undergratuate research internship in UCLA. 100 undergraduates awarded annually in China.
   * The first CSST scholar in HIT history.
  
-* Merit Student, Heilongjiang Province, China. (2014)
+* ***Merit Student***, Heilongjiang Province, China. (2014)
 
-* Pioneering Merit Student, HIT. (2014)
+* ***Pioneering Merit Student***, HIT. (2014)
 
-* Student Representative of China, G20 Saint Petersburg. (2013)
+* ***Student Representative of China***, G20 Saint Petersburg. (2013)
 
 ***Scholarships***
-* Graduate Student Fellowship, UCLA. (2018, 2019)
+* ***Graduate Student Fellowship***, UCLA. (2018, 2019)
   *  Each includes full coverage of tuition, a 12-month stipend and comprehensive health insurance for one academic year.
     
-* Incoming Graduate Student Fellowship, UCLA. (2015 - 2017)
+* ***Incoming Graduate Student Fellowship***, UCLA. (2015 - 2017)
   * Full coverage of tuition (including non-resident tuition), a 24-month stipend and comprehensive health insurance for the first two years of graduate study.
   * Rank 1 globally in the fellowship interview of that year.
   
-* National Scholarship of China. (2014)
+* ***National Scholarship of China***. (2014)
 
-* The 20th Anniversary Scholarship of Honors School, HIT. (2014) 
+* ***The 20th Anniversary Scholarship of Honors School***, HIT. (2014) 
 
-* King's Scholarship of Excellence, UK. (2013)
+* ***King's Scholarship of Excellence***, UK. (2013)
 
-* National Scholarship of China. (2012)
+* ***National Scholarship of China***. (2012)
 
 * 29 times various scholarship recipient during undergraduate study at HIT, in total ¥97,600.
 
 ***Awards***
-* Finalist, TECO Green Tech International Contest. (2017)
+* ***Finalist***, TECO Green Tech International Contest. (2017)
 
-* First Prize, National Contest of Mechanical Design, China. (2014)
+* ***First Prize***, National Contest of Mechanical Design, China. (2014)
 
-* Silver Medal, iGEM Competition. (2013)
+* ***Silver Medal***, iGEM Competition. (2013)
 
-* Silver Medal, iGEM Competition. (2012)
+* ***Silver Medal***, iGEM Competition. (2012)
 
 Publications
 ======
