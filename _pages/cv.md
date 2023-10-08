@@ -1,19 +1,9 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D., Systems, Controls and Applied Mathematics, Department of Mechanical and Aerospace Engineering, University of California, Los Angeles, CA, USA. 2015 - 2020.
+* B.E. with Honor, State Key Lab of Robotic Technology and Systems, Harbin Institute of Technology, Harbin, China. 2011 - 2015
+
 
 Work experience
 ======
