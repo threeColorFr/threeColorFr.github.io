@@ -45,13 +45,24 @@ Awards and Honors
   * Full coverage of tuition (including non-resident tuition), a 24-month stipend and comprehensive health insurance for the first two years of graduate study.
   * Rank 1 globally in the fellowship interview of that year.
   
-* National Scholarship of China. (2012, 2014)
+* National Scholarship of China. (2014)
 
 * The 20th Anniversary Scholarship of Honors School, HIT. (2014) 
 
 * King's Scholarship of Excellence, UK. (2013)
 
+* National Scholarship of China. (2012)
 
+* 29 times various scholarship recipient during undergraduate study at HIT, in total ¥97,600.
+
+***Awards***
+* Finalist, TECO Green Tech International Contest. (2017)
+
+* First Prize, National Contest of Mechanical Design, China. (2014)
+
+* Silver Medal, iGEM Competition. (2013)
+
+* Silver Medal, iGEM Competition. (2012)
 
 Publications
 ======
