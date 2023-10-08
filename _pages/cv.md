@@ -21,7 +21,7 @@ Education
 
 * ***B.E. with Honor***, Robotics/Mechatronics, **Harbin Institute of Technology (HIT)**, China. (2011 - 2015)
   * Rank 1, GPA 3.92/4, Elite Student Program (top 2%), Honors School.
-  * Member, State Key Lab of Robotics and Systems.
+  * Research Assistant, State Key Lab of Robotics and Systems.
 
 Awards and Honors
 ======
