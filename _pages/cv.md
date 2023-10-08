@@ -12,6 +12,12 @@ Education
 ======
 
 * ***Ph.D.***, System and Control/Applied Math, **University of California, Los Angeles (UCLA)**, USA. 2020.
+  * Committee Chair: Prof. Tsu-Chin Tsao.
+  * Committee Member: Prof. Tetsuya Iwasaki, Prof. Steven James Gibson, Prof. Lieven Vandenberghe.
+  * Dissertation: *Independent Position and Attitude Control on Multirotor Aerial Platforms.*
+  * Rank 1, Ph.D. Written Qualification Exam. (2016)
+  * Rank 1 in Department, Teaching Oral Proficiency (TOP) Test for teaching qualification. (2015)
+
 
 * ***B.E. with Honor***, Robotics/Mechatronics, **Harbin Institute of Technology (HIT)**, China. 2015
 
