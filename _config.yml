@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Lecheng Ruan"
+title                    : "Lecheng Ruan"
 title_separator          : "-"
-name                     : &name "Dr. Lecheng Ruan"
-description              : &description "personal description"
-url                      : https://LeLeUCLA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lecheng Ruan, Ph.D."
+description              : &description "Teacher, Engineer, Researcher, Investor, Student"
+url                      : https://LeLeUCLA.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LeLeUCLA.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,11 +83,11 @@ author:
   name             : "Dr. Lecheng Ruan"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Beijing, China | Los Angeles, CA, US"
+  location         : "Beijing, P.R.China | Los Angeles, CA, U.S.A."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qKSH6AIAAAAJ&hl=en&oi=ao"
-  email            : ruanlecheng (at) ucla (dot) edu
+  email            : ruanlecheng@ucla.edu
   researchgate     :  
   uri              :
   bitbucket        :
