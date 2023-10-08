@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lecheng Ruan"
 title_separator          : "-"
-name                     : &name "Lecheng Ruan, Ph.D."
+name                     : &name "Lecheng Ruan"
 description              : &description "Teacher, Engineer, Researcher, Investor, Student"
 url                      : https://LeLeUCLA.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
