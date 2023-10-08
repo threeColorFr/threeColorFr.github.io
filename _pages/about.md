@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Greetings to the world! My name is **Lecheng Ruan**, and I am a teacher, an engineer, a researcher regarding robotics and human-machine intelligence. My technical background spans mechatronics, control, optimization, signal processing, perception and dicision making. I currently co-supervise the center of intelligence in the laboratory of human-machine hybrid intelligence, College of Engineering, Peking University, China, and also lead the PKU-BIGAI joint team on hybrid intelligence.  
+Greetings to the world! 
+
+My name is **Lecheng Ruan**, and I am a teacher, an engineer, a researcher regarding robotics and human-machine intelligence. My technical background spans mechatronics, control, optimization, signal processing, perception and dicision making. I currently co-supervise the center of intelligence in the laboratory of human-machine hybrid intelligence, College of Engineering, Peking University, China, and also lead the PKU-BIGAI joint team on hybrid intelligence.  
 
 
