@@ -14,10 +14,10 @@ Education
 * Ph.D., System and Control/Applied Math, University of California, Los Angeles (UCLA), USA. 2020.
 * B.E. with Honor, Robotics/Mechatronics, Harbin Institute of Technology (HIT), China. 2015
 
-
-
 Awards and Honors
 ======
+* Keynote Speaker, HIT Commencement for Honor Degree. (2016)
+
 * Li-Chang Scholarship, Present Award of HIT. (2015)
   * Highest honor for HIT students, awarded to 5 undergraduates every two years.
   * Name of recipients permanently recorded in the university history.
@@ -25,15 +25,10 @@ Awards and Honors
 * CSST Scholar. (2014)
   * Finacial support of undergratuate research internship in UCLA. 100 undergraduates awarded annually in China.
   * The first CSST scholar in HIT history.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Student Representative, G20 Saint Petersburg. (2013)
+
+* 
 
 Publications
 ======
