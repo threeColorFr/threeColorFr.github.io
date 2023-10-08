@@ -46,7 +46,10 @@ Awards and Honors
   * Rank 1 globally in the fellowship interview of that year.
   
 * National Scholarship of China. (2012, 2014)
-* 
+
+* The 20th Anniversary Scholarship of Honors School, HIT. (2014) 
+
+* King's Scholarship of Excellence, UK. (2013)
 
 
 
