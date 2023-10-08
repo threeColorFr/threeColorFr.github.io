@@ -16,6 +16,6 @@ I obtained my *Ph.D.* degree in the Department of Mechanical and Aerospace Engin
 
 Our team consistently look for highly-motivated postdocs and candidates for M.S. and Ph.D. study, with interests in robotics, perception and decision making. Undergraduate/graduate research assistants with clear related skillsets are also welcomed. Feel free to contact me for collaboration proposals, no matter as a potential student or an independent researcher!
 
-May we all enjoy the fantacy of this world!
+May we all enjoy the fantasy of this world!
 
 
