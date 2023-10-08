@@ -12,6 +12,7 @@ Education
 ======
 
 * ***Ph.D.***, System and Control/Applied Math, **University of California, Los Angeles (UCLA)**, USA. 2020.
+
 * ***B.E. with Honor***, Robotics/Mechatronics, **Harbin Institute of Technology (HIT)**, China. 2015
 
 Awards and Honors
@@ -36,12 +37,18 @@ Awards and Honors
 
 * Student Representative of China, G20 Saint Petersburg. (2013)
 
-***Awards***
+***Scholarships***
 * Graduate Student Fellowship, UCLA. (2018, 2019)
-  *  Each includes full coverage of tuition, a 12-month stipend and comprehensive health insurance for one academic year. 
+  *  Each includes full coverage of tuition, a 12-month stipend and comprehensive health insurance for one academic year.
+    
 * Incoming Graduate Student Fellowship, UCLA. (2015 - 2017)
   * Full coverage of tuition (including non-resident tuition), a 24-month stipend and comprehensive health insurance for the first two years of graduate study.
   * Rank 1 globally in the fellowship interview of that year.
+  
+* National Scholarship of China. (2012, 2014)
+* 
+
+
 
 Publications
 ======
