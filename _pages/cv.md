@@ -15,7 +15,7 @@ Education
   * Committee Chair: Prof. Tsu-Chin Tsao.
   * Committee Member: Prof. Tetsuya Iwasaki, Prof. Steven James Gibson, Prof. Lieven Vandenberghe.
   * Dissertation: *Independent Position and Attitude Control on Multirotor Aerial Platforms.*
-  * Rank 1, Ph.D. Written Qualification Exam. (2016)
+  * Rank 1, *Ph.D.* Written Qualification Exam. (2016)
   * Rank 1, Teaching Oral Proficiency (TOP) Test for teaching qualification in MAE Department. (2015)
 
 
