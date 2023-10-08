@@ -29,7 +29,7 @@ Awards and Honors
 
 * ***Keynote Speaker***, HIT Commencement for Honor Degree. (2016)
 
-* ***Li-Chang Award***, Present Award of HIT. (2015)
+* ***Li-Chang Award*** **(李昌奖学金)**, Present Award of HIT. (2015)
   * Highest honor for HIT students, awarded to 5 undergraduates every two years.
   * Name of recipients permanently recorded in the university history.
  
