@@ -16,7 +16,7 @@ Education
   * Committee Member: Prof. Tetsuya Iwasaki, Prof. Steven James Gibson, Prof. Lieven Vandenberghe.
   * Dissertation: *Independent Position and Attitude Control on Multirotor Aerial Platforms.*
   * Rank 1, Ph.D. Written Qualification Exam. (2016)
-  * Rank 1 in Department, Teaching Oral Proficiency (TOP) Test for teaching qualification. (2015)
+  * Rank 1, Teaching Oral Proficiency (TOP) Test for teaching qualification in MAE Department. (2015)
 
 
 * ***B.E. with Honor***, Robotics/Mechatronics, **Harbin Institute of Technology (HIT)**, China. (2011 - 2015)
