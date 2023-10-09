@@ -51,7 +51,7 @@ Awards and Honors
     
 * ***Incoming Graduate Student Fellowship***, UCLA. (2015 - 2017)
   * Full coverage of tuition (including non-resident tuition), a 24-month stipend and comprehensive health insurance for the first two years of graduate study.
-  * Rank 1 globally in the fellowship interview of that year.
+  * Rank 1 globally in the fellowship oral exam of that year.
   
 * ***National Scholarship of China***. (2014)
 
