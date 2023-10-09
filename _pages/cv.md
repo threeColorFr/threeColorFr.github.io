@@ -29,7 +29,7 @@ Awards and Honors
 
 * ***Keynote Speaker***, HIT Commencement for Honor Degree. (2016)
 
-* ***Li-Chang Award*** **(李昌奖学金)**, President Award of HIT. (2015)
+* ***Li-Chang Award*** **(李昌奖)**, President Award of HIT. (2015)
   * Highest honor for HIT students, awarded to 5 undergraduates every two years.
   * Name of recipients permanently recorded in the university history.
  
@@ -61,7 +61,7 @@ Awards and Honors
 
 * ***National Scholarship of China***. (2012)
 
-* 29 times various scholarship recipient during undergraduate study at HIT, in total ¥97,600.
+* Recipient of 29 additional scholarships (for study, research, volunteer work *etc.*) during undergraduate study at HIT, in total ¥97,600.
 
 ***Awards***
 * ***Finalist***, TECO Green Tech International Contest. (2017)
