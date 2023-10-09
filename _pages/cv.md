@@ -25,7 +25,7 @@ Education
 
 Awards and Honors
 ======
-***Honors***
+***1. Honors***
 
 * ***Keynote Speaker***, HIT Commencement for Honor Degree. (2016)
 
@@ -45,7 +45,7 @@ Awards and Honors
 
 * ***Student Representative of China***, G20 Saint Petersburg. (2013)
 
-***Scholarships***
+***2. Scholarships***
 * ***Graduate Student Fellowship***, UCLA. (2018, 2019)
   *  Each includes full coverage of tuition, a 12-month stipend and comprehensive health insurance for one academic year.
     
@@ -63,7 +63,7 @@ Awards and Honors
 
 * Recipient of 29 additional scholarships (for study, research, volunteer work *etc.*) during undergraduate study at HIT, in total ¥97,600.
 
-***Awards***
+***3. Awards***
 * ***Finalist***, TECO Green Tech International Contest. (2017)
 
 * ***First Prize***, National Contest of Mechanical Design, China. (2014)
