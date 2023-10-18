@@ -61,7 +61,7 @@ Awards and Honors
 
 * ***National Scholarship of China***. (2012)
 
-* Recipient of 29 additional scholarships (for study, research, volunteer work *etc.*) during undergraduate study at HIT, in total ¥97,600.
+* Recipient of 29 other scholarships (for study, research, volunteer work *etc.*) during undergraduate study at HIT, in total ¥97,600.
 
 ***3. Awards***
 * ***Finalist***, TECO Green Tech International Contest. (2017)
