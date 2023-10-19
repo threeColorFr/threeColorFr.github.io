@@ -1,7 +1,7 @@
 ---
 title: "A Learning-Free Method for Locomotion Mode Prediction by Terrain Reconstruction and Visual-Inertial Odometry"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ZhaoSY-TNSRE23
 excerpt: 'This paper propses a framework that dipicts terrain information and human motion in a unified robout representation for wearable robots control. It avoids the processing for learning and presents generality across people and environment.'
 date: 2023-01-01
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
