@@ -5,7 +5,7 @@ permalink: /publication/XuM-TRO23
 excerpt: 'This paper introduces a bio-inspired actuator that can mimic different functional modes of human muscles during walking, so that can be naturally used for wearable robotic devices.'
 date: 2023-01-01
 venue: 'IEEE Transactions on Robotics'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: '/pubfile/XuM-TRO23.pdf'
 citation: 
 ---
 
