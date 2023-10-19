@@ -5,7 +5,7 @@ permalink: /publication/ZhaoYS-SR21
 excerpt: 'This paper proposes the first somatosensory actuator with hydrogel, and explore its functionalities on perception and actuation in different perspectives.'
 date: 2021-1-01
 venue: 'Science Robotics'
-paperurl: 'pubfile/ZhaoYS-SC2021.pdf'
+paperurl: '/pubfile/ZhaoYS-SC2021.pdf'
 citation: 
 ---
 
