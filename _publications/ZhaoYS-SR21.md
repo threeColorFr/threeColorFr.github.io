@@ -1,7 +1,7 @@
 ---
 title: "Somatosensory Actuator Based on Stretchable Conductive Photothermally Responsive Hydrogel"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/ZhaoYS-SR21
 excerpt: 'This paper proposes the first somatosensory actuator with hydrogel, and explore its functionalities on perception and actuation in different perspectives.'
 date: 2021-1-01
 venue: 'Science Robotics'
