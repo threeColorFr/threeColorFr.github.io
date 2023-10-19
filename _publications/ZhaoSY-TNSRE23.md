@@ -5,7 +5,7 @@ permalink: /publication/ZhaoSY-TNSRE23
 excerpt: 'This paper propses a framework that dipicts terrain information and human motion in a unified robout representation for wearable robots control. It avoids the processing for learning and presents generality across people and environment.'
 date: 2023-01-01
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'pubfile/ZhaoSY-TNSRE23.pdf'
 citation: 
 ---
 
