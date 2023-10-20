@@ -100,3 +100,16 @@ Publications
 * ***Representation and Learning***
   * Shi Y, Li S, Niu X, Xu Q, Liu J, Xu Y, Gu S, He B, Li X, Zhao X, Zhao Z, Lyu Y, Li Z, Liu S, Qiu L, Ji J, Ruan L, Ma Y, Han W, Zhu Y. PersLEARN: research training through the lens of perspective cultivation. ***Annual Meeting of the Association for Computational Linguistics (ACL)***. 2023. 
  
+Teaching
+======
+* ***University of California, Los Angeles*** (2016 - 2018)
+  * ***Dynamic Systems***, Mechanical and Aerospace Engineering Department, Undergraduate Level (as *Teaching Fellow*).
+  * ***Math for Life Scientist - Part B***, Department of Life Science, Undergraduate Level (as *Teaching Associate*).
+  * ***Math for Life Scientist - Part A***, Department of Life Science, Undergraduate Level (as *Teaching Associate*).
+  * ***System Identification***, Mechanical and Aerospace Engineering Department, Graduate Level (as *Teaching Assistant*).
+  * ***Linear Optimal Control***, Mechanical and Aerospace Engineering Department, Graduate Level (as *Teaching Assistant*).
+  * ***Linear Dynamic Systems***, Mechanical and Aerospace Engineering Department, Graduate Level (as *Teaching Assistant*).
+
+* ***Peking University*** (2021 - present)
+  * ***Introduction to Bionic Robotics***, College of Engineering, Graduate Level.
+  * ***Introduction to Artificial Intelligence***, Yuanpei College, Undergraduate Level.
