@@ -16,7 +16,8 @@ I obtained my *Ph.D.* degree in the Department of Mechanical and Aerospace Engin
 
 My team and I firmly believe that the endpoint of the AI story should be a hybrid system (or world) of human and artificial agents, where the advantages of both are further promoted as system features, and the shortcomings are compensated in between. The hybrid system should be human-centered, and the ultimate goal should be to carry forward the merits and push forward the physical boundaries of human, with the help of algorithmic and embodied intelligent agents. Creating an intelligent agent to fully mimic or replace the functionalities of human being, in our perspective, is neither necessary nor important. Research focus of my team, at the current stage, includes the depiction and understanding of environment, the prediction and comprehension of human motion and intension, and the hybrid control for human-machine collaboration. Our lab also has a strong foundation on the design, manufacturing, and implementation of robotic platforms. 
 
-<font color=red>HIRE</font> Our team consistently looks for highly-motivated *Postdocs* and also candidates for *M.S.* and *Ph.D.* study, with interests in robotics, perception and decision making. Undergraduate/graduate research assistants with clear related skillsets are also welcomed. Feel free to contact me for collaboration proposals, no matter as a potential student or an independent researcher!
+<font color=red>**HIRE**</font> 
+Our team consistently looks for highly-motivated *Postdocs* and also candidates for *M.S.* and *Ph.D.* study, with interests in robotics, perception and decision making. Undergraduate/graduate research assistants with clear related skillsets are also welcomed. Feel free to contact me for collaboration proposals, no matter as a potential student or an independent researcher!
 
 May we all enjoy the fantasy of this world!
 
