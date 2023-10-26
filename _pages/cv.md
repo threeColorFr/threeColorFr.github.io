@@ -111,5 +111,5 @@ Teaching
   * ***Linear Dynamic Systems***, Mechanical and Aerospace Engineering Department, Graduate Level (as *Teaching Assistant*).
 
 * ***Peking University*** (2021 - present)
-  * ***Introduction to Bionic Robotics***, College of Engineering, Graduate Level.
+  * ***Bionic Robotics***, College of Engineering, Graduate Level.
   * ***Introduction to Artificial Intelligence***, Yuanpei College, Undergraduate Level.
