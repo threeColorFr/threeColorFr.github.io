@@ -17,6 +17,6 @@ author_profile: true
   {% include archive-single.html %}
 
   {% if post.cover_image %}
-    ![picture](post.cover_image)
+    <img src="{{ post.cover_image }}" alt="文章封面图片">
   {% endif %}
 {% endfor %}
