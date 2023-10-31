@@ -7,7 +7,7 @@ date: 2023-01-01
 venue: 'IEEE Transactions on Robotics'
 paperurl: '/pubfile/XuM-TRO23.pdf'
 citation: 
-cover_image: /images/Myphoto.jpg
+cover_image: https://github.com/LeLeUCLA/LeLeUCLA.github.io/blob/master/images/Myphoto.jpg
 ---
 ![picture](/images/Myphoto.jpg)
 
