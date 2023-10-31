@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/images/Myphoto.jpg" alt="文章封面图片">
+<img src="/images/researchcover.jpg" alt="文章封面图片">
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
   {% if post.cover_image %}
