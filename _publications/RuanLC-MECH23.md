@@ -7,7 +7,7 @@ date: 2023-01-01
 venue: 'Mechatronics'
 paperurl: '/pubfile/RuanLC-MECH23.pdf'
 citation: 
-cover_image: /pubfile/RuanLC-MECH23.jpg
+cover_image: 
 ---
 
 
