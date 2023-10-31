@@ -11,12 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-![picture](/images/Myphoto.jpg)
-
+<img src="/images/Myphoto.jpg" alt="文章封面图片">
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 
   {% if post.cover_image %}
-    <img src="{{ post.cover_image }}" alt="文章封面图片">
+    <div>
+      <img src="{{ post.cover_image }}" alt="文章封面图片">
+    </div>
   {% endif %}
 {% endfor %}
