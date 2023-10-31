@@ -7,7 +7,7 @@ date: 2023-01-01
 venue: 'IEEE Transactions on Robotics'
 paperurl: '/pubfile/XuM-TRO23.pdf'
 citation: 
-cover_image: /pubfile/XuM-TRO23.png
+cover_image: 
 ---
 
 
