@@ -14,10 +14,7 @@ author_profile: true
 <img src="/images/Myphoto.jpg" alt="文章封面图片">
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-
   {% if post.cover_image %}
-    <div>
-      <img src="{{ post.cover_image }}" alt="文章封面图片">
-    </div>
+    <img src="{{ post.cover_image }}" alt="文章封面图片">
   {% endif %}
 {% endfor %}
