@@ -15,4 +15,8 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
+
+  {% if post.cover_image %}
+    ![picture](post.cover_image)
+  {% endif %}
 {% endfor %}
