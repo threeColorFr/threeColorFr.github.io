@@ -15,7 +15,7 @@ img {
 }
 .gallery li {
 	padding: 10px;
-	margin: 0;
+	margin: 10px;
 	float: left;
 	position: relative;
 	width: 180px;
