@@ -40,10 +40,10 @@ author_profile: true
 # Member
 
 <ul class="gallery">
-	<li><a href="#"><span></span><img src="images/Myphoto.jpg" alt="image" /></a></li>
-	<li><a href="#"><span></span><img src="images/bio-photo.jpg" alt="image" /></a></li>
-	<li><a href="#"><span></span><img src="images/foo-bar-identity.jpg" alt="image" /></a></li>
-	<li><a href="#"><span></span><img src="images/Myphoto.jpg" alt="image" /></a></li>
+	<li><a href="#"><span></span><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+	<li><a href="#"><span></span><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+	<li><a href="#"><span></span><img src="/images/foo-bar-identity.jpg" alt="image" /></a></li>
+	<li><a href="#"><span></span><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 </ul>
 
 # Activity
