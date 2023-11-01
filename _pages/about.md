@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![picture](/image/title.jpg)
+![picture](/images/title.jpg)
 
 Greetings to the world! 
 
