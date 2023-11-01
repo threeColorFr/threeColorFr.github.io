@@ -47,7 +47,7 @@ author_profile: true
 }
 </style>
 
-# Member
+## Member
 <div>
 	<ul class="gallery">
 		<li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
@@ -57,9 +57,12 @@ author_profile: true
 		<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 		<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 	</ul>
-</div>
+</div>  
 
-# Activity
+---
+
+## Activity
+<div>
 <ul class="gallery">
 	<li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 	<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
@@ -68,4 +71,4 @@ author_profile: true
 	<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 	<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 </ul>
-
+</div>
