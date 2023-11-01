@@ -11,7 +11,7 @@ title                    : "Lecheng Ruan"
 title_separator          : "-"
 name                     : &name "Lecheng Ruan"
 description              : &description "Teacher, Engineer, Researcher, Investor, Student"
-url                      : https://LeLeUCLA.github.io 
+url                      : https://threeColorFr.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "threeColorFr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
