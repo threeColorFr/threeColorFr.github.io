@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style type="text/css">
 .box {
-	margin: 100px; /* 添加外边距，创建空白 */
+	margin-bottom: 80px; /* 添加外边距，创建空白 */
 	float: left; /* 可选，将元素浮动到左侧 */
 }
 .gallery {
