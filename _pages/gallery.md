@@ -5,13 +5,10 @@ permalink: /gallery/
 author_profile: true
 ---
 <style type="text/css">
-img {
-	border: none;
-}
 .gallery {
 	list-style: none;
-	margin: auto;
-	padding: 0;
+	margin: 10px;
+	padding: 10px;
 }
 .gallery li {
 	padding: 10px;
