@@ -66,6 +66,3 @@ img {
 ---
 
 <br>
-
-## Activity
-hello
