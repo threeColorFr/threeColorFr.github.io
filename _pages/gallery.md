@@ -5,6 +5,10 @@ permalink: /gallery/
 author_profile: true
 ---
 <style type="text/css">
+.box {
+	margin: 100px; /* 添加外边距，创建空白 */
+	float: left; /* 可选，将元素浮动到左侧 */
+}
 .gallery {
 	list-style: none;
 	margin: 0;
@@ -48,6 +52,7 @@ author_profile: true
 }
 </style>
 
+<div class="box">
 <h1> Member </h1>
 <ul class="gallery">
 <li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
@@ -57,12 +62,17 @@ author_profile: true
 <li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 <li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 </ul>
+</div>
 
 
-<br>
-
----
-
-<br>
-
+<div class="box">
 <h1> Group </h1>
+<ul class="gallery">
+<li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abs</em><img src="/images/foo-bar-identity.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+</ul>
+</div>
