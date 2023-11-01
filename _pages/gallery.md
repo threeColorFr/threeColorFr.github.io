@@ -5,6 +5,14 @@ permalink: /gallery/
 author_profile: true
 ---
 <style type="text/css">
+div {
+	margin: 0 auto;
+	padding: 0;
+	width: 700px;
+	color: #000000;
+	font: normal 80%/120% Georgia, "Times New Roman", Times, serif;
+}
+	
 .gallery {
 	list-style: none;
 	margin: 0;
