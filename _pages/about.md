@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![picture](/image/title.jpg)
+
 Greetings to the world! 
 
 My name is Lecheng Ruan, and many of my friends, collogues and students also call me LeLe (乐乐). I am a **teacher**, an **engineer**, a **researcher** and an **investor** regarding robotics and human-machine intelligence. My technical background spans mechatronics, control, optimization, signal processing, perception and decision making. I am currently co-advising the Center of Perception and Decision in the Laboratory of Human-Machine Hybrid Intelligence, College of Engineering, Peking University, Beijing, China, and also leading the PKU-BIGAI Joint Group on Hybrid Intelligence, Beijing, China. I serve (or served) as the partner of several venture capitals/business incubators, and also the chief scientist/consultant of a few tech firms, of which the businesses are usually associated with smart manufacturing, health care, medical equipment, and automation.
