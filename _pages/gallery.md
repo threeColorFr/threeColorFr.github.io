@@ -49,14 +49,14 @@ author_profile: true
 
 ## Member
 <div>
-	<ul class="gallery">
-		<li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
-		<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-		<li><a href="#"><em>Abs</em><img src="/images/foo-bar-identity.jpg" alt="image" /></a></li>
-		<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
-		<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
-		<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
-	</ul>
+<ul class="gallery">
+<li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abs</em><img src="/images/foo-bar-identity.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+</ul>
 </div>  
 
 ---
@@ -64,11 +64,11 @@ author_profile: true
 ## Activity
 <div>
 <ul class="gallery">
-	<li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
-	<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
-	<li><a href="#"><em>Abs</em><img src="/images/foo-bar-identity.jpg" alt="image" /></a></li>
-	<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
-	<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
-	<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abs</em><img src="/images/foo-bar-identity.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
+<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 </ul>
 </div>
