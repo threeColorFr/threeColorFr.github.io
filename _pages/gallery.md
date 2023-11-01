@@ -13,7 +13,7 @@ author_profile: true
 .gallery li {
 	padding: 10px;
 	margin-right: 10px;
-	margin-bottolm: 100px;
+	margin-bottom: 100px;
 	float: left;
 	position: relative;
 	width: 180px;
