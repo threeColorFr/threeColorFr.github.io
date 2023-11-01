@@ -7,12 +7,13 @@ author_profile: true
 <style type="text/css">
 .gallery {
 	list-style: none;
-	margin: 10px;
-	padding: 10px;
+	margin: 0;
+	padding: 0;
 }
 .gallery li {
 	padding: 10px;
-	margin: 10px;
+	margin-right: 10px;
+	margin-bottolm: 10px;
 	float: left;
 	position: relative;
 	width: 180px;
