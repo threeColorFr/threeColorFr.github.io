@@ -5,14 +5,9 @@ permalink: /gallery/
 author_profile: true
 ---
 <style type="text/css">
-div {
-	margin: 0 auto;
-	padding: 0;
-	width: 700px;
-	color: #000000;
-	font: normal 80%/120% Georgia, "Times New Roman", Times, serif;
+img {
+	border: none;
 }
-	
 .gallery {
 	list-style: none;
 	margin: 0;
@@ -56,7 +51,6 @@ div {
 </style>
 
 ## Member
-<div>
 <ul class="gallery">
 <li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 <li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
@@ -65,7 +59,7 @@ div {
 <li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 <li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 </ul>
-</div>  
+
 
 <br>
 
