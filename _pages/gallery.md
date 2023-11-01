@@ -59,8 +59,11 @@ author_profile: true
 </ul>
 </div>  
 
----  
+<br>
 
+---
+
+<br>
 
 ## Activity
 <div>
