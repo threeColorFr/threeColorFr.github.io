@@ -28,7 +28,7 @@ author_profile: true
 }
 .gallery em {
 	width: 102px;
-	background: url(images/bubble.gif) no-repeat;
+	background: url(/images/bubble.gif) no-repeat;
 	padding: 3px 0 6px;
 	display: none;
 	position: absolute;
@@ -54,6 +54,7 @@ author_profile: true
 	<li><a href="#"><em>Abs</em><img src="/images/foo-bar-identity.jpg" alt="image" /></a></li>
 	<li><a href="#"><em>Abst</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 </ul>
+
 
 # Activity
 
