@@ -48,7 +48,7 @@ author_profile: true
 }
 </style>
 
-## Member
+<h1> Member </h1>
 <ul class="gallery">
 <li><a href="#"><em>Abstract</em><img src="/images/Myphoto.jpg" alt="image" /></a></li>
 <li><a href="#"><em>Ab</em><img src="/images/bio-photo.jpg" alt="image" /></a></li>
@@ -64,3 +64,5 @@ author_profile: true
 ---
 
 <br>
+
+<h1> Group </h1>
