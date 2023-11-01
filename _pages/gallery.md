@@ -10,7 +10,7 @@ img {
 }
 .gallery {
 	list-style: none;
-	margin: 0;
+	margin: auto;
 	padding: 0;
 }
 .gallery li {
